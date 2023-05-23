@@ -1,0 +1,10 @@
+{
+  "openapi": "3.0.0",
+  "info": { 
+      "title": "API",
+      "version": "1.0.0",
+      "Descripcion": "ContenidoReadme" 
+      },
+  "servers":[{"url": "http://localhost:8085"}],
+  "tags": [{"name":"vuelo","description":"Catalogo de vuelos"}] 
+  }
